@@ -19,16 +19,12 @@ Source: http://www.goes.noaa.gov/srcheast.html
 - NOAA collects snapshots at :15 and :45 of the hour.
 
 - File convention (HUWV172502145.GIF):
-
-HU  : GOES Sector
-
-IR  : Infrared
-VI  : Visible
-WV  : Water Vapor
-
-17  : Year
-250 : Day of Year (i.e. Sept. 7)
-00  : Hour
-45  : Minute (at 15, 45)
-
-GIF : file format
+  - HU  : GOES Sector
+  - IR  : Infrared
+  - VI  : Visible
+  - WV  : Water Vapor
+  - 17  : Year
+  - 250 : Day of Year (i.e. Sept. 7)
+  - 00  : Hour
+  - 45  : Minute (at 15, 45)
+  - GIF : file format
